@@ -14,9 +14,9 @@ return [
         'github' => 'johndoe',
     ],
     'services' => [
-        'analytics' => 'UA-XXXXX-Y',
+        'analytics' => 'UA-36977184-2',
         'disqus' => 'artisanstatic',
-        'cloudinary' => 'artisanstatic',
+        'cloudinary' => 'dzbthg9g9',
         'jumprock' => 'artisanstatic',
     ],
     'collections' => [
